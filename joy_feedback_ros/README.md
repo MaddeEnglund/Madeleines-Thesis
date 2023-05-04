@@ -1,10 +1,6 @@
 **Written by:
 https://github.com/lucasw/joy_feedback_ros.git**
 ================
-================
-
-
-
 
 
 joy_feedback_ros
